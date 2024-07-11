@@ -1,10 +1,10 @@
 # NOTES
-=======================================
+
 ## Models
 
 - Team name: 
 - Who would be using the app?
-- [[Client persona]]
+- [[clientPersona]]
 
 ## User Stories
 MVP Flow
@@ -19,7 +19,7 @@ Calls aren't timeboxed
 # HOW TO RUN
 Add items to notes when creating new actions, techniques, whatever
 
-## SSH Keys Instructions
+## SSH Key Instructions
 ```
 ssh-keygen -t ed25519 -C "blisster138@gmail.com"
 
@@ -41,9 +41,10 @@ git remote add origin git@github.com:blisster138/JMP.git
 git push --set-upstream origin main
 ```
 
-# Links & Resources
-- Manage DNS: https://account.squarespace.com/domains/managed/custosarcanum.com
-- DNS Provider: Square Space DNS
+# LINKS & RESOURCES
+- [Manage DNS](https://account.squarespace.com/domains/managed/custosarcanum.com)
+  - Provider: Square Space DNS
+- [Git Hub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site)
 
 ## Goals
 - As a developer, I can can commit and push code to a remote repository
@@ -52,7 +53,9 @@ git push --set-upstream origin main
 - As a member of a software development team, I can access and download this tool as an open source project
 - As a developer, I want to publish the index.html file as Github Pages
 
-# Drumbeat Retro
+---------------------------------------------------
+
+# DRUMBEAT RETRO
 **Positives:**
 - Getting back into some development & coding
 - Connected the repo (including public SSH key)
@@ -64,3 +67,14 @@ git push --set-upstream origin main
 **Negatives:**
 - No colocation
 - Pop doesn't want to work with second display
+
+---------------------------------------------------
+
+# TODO LIST :: WEEK OF 07/13
+- [ ] Order new wheel for Kona
+- [ ] Complete Keynote wireframes
+- [ ] Visit USF Campus (Art school)
+- [ ] 'Values' lettering
+- [ ] Pocket hole jig mounting
+- [ ] Pocket hole jig routing
+- [ ] Drumbeat format
