@@ -1,14 +1,23 @@
 # NOTES
 
 ## Models
-
 - Team name: 
 - Who would be using the app?
 - [[clientPersona]]
 
 ## User Stories
-MVP Flow
-Demographic info
+- [ ] MVP Flow
+- [ ] Demographic info
+- [ ] Persona
+- [ ] Dimensions
+- [ ] Practices
+
+## Goals
+- As a developer, I can can commit and push code to a remote repository
+- As a user, I can read the vision about the tool.
+- As a consultant or support staff member, I can get an automated drumbeat with weekly update of what progress we've made
+- As a member of a software development team, I can access and download this tool as an open source project
+- As a developer, I want to publish the index.html file as Github Pages
 
 ### Client Problems
 Product Managers want to improve process, but aren't pairing daily
@@ -45,13 +54,6 @@ git push --set-upstream origin main
 - [Manage DNS](https://account.squarespace.com/domains/managed/custosarcanum.com)
   - Provider: Square Space DNS
 - [Git Hub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site)
-
-## Goals
-- As a developer, I can can commit and push code to a remote repository
-- As a user, I can read the vision about the tool.
-- As a consultant or support staff member, I can get an automated drumbeat with weekly update of what progress we've made
-- As a member of a software development team, I can access and download this tool as an open source project
-- As a developer, I want to publish the index.html file as Github Pages
 
 ---------------------------------------------------
 
