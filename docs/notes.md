@@ -16,11 +16,6 @@ Sitting on a full calendar of calls
 Calls don't have agenda or goals
 Calls aren't timeboxed
 
-## Goals
-- Automated drumbeat with weekly update of what progress we've made
-- Open sourced tool
-- Commit code to Github
-
 # HOW TO RUN
 Add items to notes when creating new actions, techniques, whatever
 
@@ -53,3 +48,18 @@ git push --set-upstream origin main
 ## Goals
 - As a developer, I can can commit and push code to a remote repository
 - As a user, I can read the vision about the tool.
+- As a consultant or support staff member, I can get an automated drumbeat with weekly update of what progress we've made
+- As a member of a software development team, I can access and download this tool as an open source project
+
+# Drumbeat Retro
+**Positives:**
+- Getting back into some development & coding
+- Connected the repo (including public SSH key)
+- Went fishing
+
+**Questions or Concerns:**
+- Remote pairing etiquette for driver/navigator (it's easier co-located)
+
+**Negatives:**
+- No colocation
+- Pop doesn't want to work with second display
