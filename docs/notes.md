@@ -50,6 +50,7 @@ git push --set-upstream origin main
 - As a user, I can read the vision about the tool.
 - As a consultant or support staff member, I can get an automated drumbeat with weekly update of what progress we've made
 - As a member of a software development team, I can access and download this tool as an open source project
+- As a developer, I want to publish the index.html file as Github Pages
 
 # Drumbeat Retro
 **Positives:**
