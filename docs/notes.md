@@ -77,6 +77,7 @@ git push --set-upstream origin main
 - [ ] Complete Keynote wireframes
 - [ ] Visit USF Campus (Art school)
 - [ ] 'Values' lettering
+- [ ] Peter Pan lettering
 - [ ] Pocket hole jig mounting
 - [ ] Pocket hole jig routing
-- [ ] Drumbeat format
+- [X] Drumbeat format
