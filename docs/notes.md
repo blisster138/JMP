@@ -72,12 +72,7 @@ git push --set-upstream origin main
 
 ---------------------------------------------------
 
-# TODO LIST :: WEEK OF 07/13
-- [ ] Order new wheel for Kona
-- [ ] Complete Keynote wireframes
-- [ ] Visit USF Campus (Art school)
-- [ ] 'Values' lettering
-- [ ] Peter Pan lettering
-- [ ] Pocket hole jig mounting
-- [ ] Pocket hole jig routing
+# TODO LIST
 - [X] Drumbeat format
+- [ ] Complete Keynote wireframes
+- [ ] Review product team survey results
